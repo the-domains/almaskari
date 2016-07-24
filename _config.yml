@@ -1,14 +1,21 @@
-layout_spectrum: 0.043716220650821924
 typography_spectrum: 0.9792884089984
+content_rating:
+  adult: true
 color:
   brandStrength: 0.40453986218199134
   lightness: 0.8688171657267958
   saturation: 0.6642039509024471
   rhythmicContrast: 0.7619438637048006
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+layout_spectrum: 0.043716220650821924
+author:
+  name: Muhammed Al Maskary
+  email: almaskary.production@gmail.com
+  url: almaskary.photoshelter.com
 name: Almaskari
+title: were photography takes place
