@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-24T19:02:54.083Z'
+datePublished: '2016-07-24T19:36:25.705Z'
 sourcePath: >-
   _posts/2016-04-16-7-spring-road-trips-to-the-most-colorful-flowers-across-amer.md
 inFeed: true
@@ -18,7 +18,8 @@ keywords:
   - route
 related: []
 author: []
-dateModified: '2016-07-24T19:02:52.870Z'
+via: {}
+dateModified: '2016-07-24T19:36:24.911Z'
 title: 7 spring road trips to the most colorful flowers across America
 app_links: []
 publisher:
@@ -34,10 +35,9 @@ description: >-
   bluebonnets and many other wildflowers.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>7 spring road trips to the most colorful flowers across America</h1><p>There are many clichés about spring, but their ubiquity doesn't diminish how beautiful the changing of the seasons can be. If you need a reminder for how great this season can be, we've got seven road trips across the United States that are perfect for stopping and smelling the roses - and the poppies, bluebonnets and many other wildflowers.</p><img src="http://rack.0.mshcdn.com/media/ZgkyMDE2LzA0LzEzLzFhLzk2NDgyNTE1NDguY2M4MzUuanBnCnAJdGh1bWIJMTIwMHg5NjAwPg/0694ce7b/090/9648251548_349c53f86c_o.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10a22e4693a99ac19b9cf82a47df82ad3f76b487.jpg" /><h1>7 spring road trips to the most colorful flowers across America</h1><p>There are many clichés about spring, but their ubiquity doesn't diminish how beautiful the changing of the seasons can be. If you need a reminder for how great this season can be, we've got seven road trips across the United States that are perfect for stopping and smelling the roses - and the poppies, bluebonnets and many other wildflowers.</p></article>
